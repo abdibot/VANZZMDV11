@@ -807,16 +807,16 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
 
 📚 *Base : Dika Ardnt* 
 
-https://github.com/DikaArdnt/Hisoka-Morou
+https://github.com/abdibot
 
 
 🌱 Recode By : Sanzy YT
 
-https://youtube.com/c/SanzyYT`
+https://m.youtube.com/channel/UCEDb6SkiPU0theI8J_WEZZA`
                 let button = [{
                                 urlButton: {
                                     displayText: 'Youtube Creator',
-                                    url: 'https://youtube.com/c/SanzyYT'
+                                    url: 'https://m.youtube.com/channel/UCEDb6SkiPU0theI8J_WEZZA'
                                 }
                             }]
                 hisoka.send5ButImg(m.chat, anu, hisoka.user.name, global.thumb, button)
